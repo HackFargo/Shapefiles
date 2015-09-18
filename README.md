@@ -16,7 +16,7 @@ forward by any means.
 
 Other resources include:
 
-  * [https://apps.nd.gov/hubdataportal/srv/en/main.home](ND Data Portal) which typically leads to the [ND GIS System](http://www.nd.gov/gis/apps/DataDownload/)
+  * [ND Data Portal](https://apps.nd.gov/hubdataportal/srv/en/main.home) which typically leads to the [ND GIS System](http://www.nd.gov/gis/apps/DataDownload/)
     -- this system is *awesome* and lets you download all kinds of state
     wide data sets (ecological, transportation, health, infrastructure).
     I wish every GIS system was like this because it makes grabbing data
@@ -24,8 +24,8 @@ Other resources include:
 
   * City of Fargo GIS: http://gis.cityoffargo.gov
 
-  * [https://www.casscountynd.gov/county/depts/GIS/download/Pages/shapefiles.aspx](Cass County ND  GIS) -- another fantastic resource for 
+  * [Cass County ND GIS](https://www.casscountynd.gov/county/depts/GIS/download/Pages/shapefiles.aspx) -- another fantastic resource for 
     downloading data. They have a whole bunch of fun shape files for download.
 
-  * [http://claycountymn.gov/658/GIS-Data](Clay County MN GIS) -- more files for download across the river
+  * [Clay County MN GIS](http://claycountymn.gov/658/GIS-Data) -- more files for download across the river
 
