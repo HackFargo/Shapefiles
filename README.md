@@ -14,6 +14,20 @@ If you know how to download shapefiles directly from the city of fargo
 or moorhead GIS systems, please write up a tutorial. It's not straight
 forward by any means.
 
+[Use this great GEOJson preview] for testing GeoJson files (it is a simple
+leaflet.js example). More info on leaflet.js / [GeoJson here](http://leafletjs.com/examples/geojson.html).
+
+If you would like to make your own GeoJSON files, it's easy. First, be 
+sure to install the gdal package. On linux: ``` apt-get install gdal-bin ```
+
+To convert a single shapefile:
+
+``` bash
+ogr2ogr -f GeoJSON -t_srs crs:84 FargoParks.geojson FargoParks.shp
+```
+
+There's also a nice [bash helper](https://gist.github.com/benbalter/5858851) for multiple files.
+
 Other resources include:
 
   * [ND Data Portal](https://apps.nd.gov/hubdataportal/srv/en/main.home) which typically leads to the [ND GIS System](http://www.nd.gov/gis/apps/DataDownload/)
