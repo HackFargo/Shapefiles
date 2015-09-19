@@ -21,7 +21,7 @@ If you know how to download shapefiles directly from the city of fargo
 or moorhead GIS systems, please write up a tutorial. It's not straight
 forward by any means.
 
-[Use this great GEOJson preview] for testing GeoJson files (it is a simple
+[Use this great GEOJson preview](http://leaflet.calvinmetcalf.com/#11/46.8654/-96.7339) for testing GeoJson files (it is a simple
 leaflet.js example). More info on leaflet.js / [GeoJson here](http://leafletjs.com/examples/geojson.html).
 
 If you would like to make your own GeoJSON files, it's easy. First, be 
